@@ -1,9 +1,9 @@
 # 👋 ¡Holi, bienvenido a mi perfil!
 
-![Bienvenida](https://i.pinimg.com/1200x/56/c5/78/56c578849441299159528873d977955b.jpg)
+![Bienvenida](https://i.pinimg.com/736x/86/6c/24/866c2407ff76c5e6398392fcb7fbda47.jpg)
 
 🚀 **Sobre mí:**  
-🔹 Desarrollador apasionado por la tecnología.  
+🔹 no se jajaj.  
 🔹 Me encanta trabajar con **C y C++**.  
 🔹 Actualmente aprendiendo **C# y SQL**.  
 
