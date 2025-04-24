@@ -1,21 +1,71 @@
-# ¡Bienvenido a mi perfil! 👋
+## ¡Holi👋
 
+---
 
+## 🛠️ Habilidades Principales
 
-## Habilidades: 
-- ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) C
-- ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) C++
-- ![Python](https://img.shields.io/badge/-Python-306998?logo=python&logoColor=white) Python
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) HTML
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) CSS
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) JS
+<div style="background: #ffffff; border-radius: 18px; padding: 25px; margin: 20px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.08); display: flex; align-items: center; justify-content: space-between; border: 1px solid #e1e4e8;">
+  <div style="display: flex; flex-direction: column; gap: 15px; width: 75%;">
+    <div style="display: flex; align-items: center; gap: 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30" />
+      <span style="font-weight: 500;">C</span>
+    </div>
+    <div style="display: flex; align-items: center; gap: 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30" />
+      <span style="font-weight: 500;">C++</span>
+    </div>
+    <div style="display: flex; align-items: center; gap: 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" />
+      <span style="font-weight: 500;">Python</span>
+    </div>
+    <div style="display: flex; align-items: center; gap: 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" />
+      <span style="font-weight: 500;">HTML5</span>
+    </div>
+  </div>
+  <img src="https://i.pinimg.com/736x/f2/a8/52/f2a8528a76b2e5370513fe25530917d9.jpg" width="150" />
+</div>
 
-## Aprendiendo:
-- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) React
-- ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) C#
-- ![SQL](https://img.shields.io/badge/-SQL-00758F?logo=postgresql&logoColor=white) SQL
+---
 
-## Habilidades adicionales:
-- ![Terminal](https://img.shields.io/badge/-Terminal-2D2D2D?logo=ubuntu&logoColor=white) Terminal
-- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) Git
-- ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) Linux
+## 📚 En Aprendizaje
+
+<div style="background: #ffffff; border-radius: 18px; padding: 25px; margin: 20px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.08); display: flex; align-items: center; justify-content: space-between; border: 1px solid #e1e4e8;">
+  <div style="display: flex; flex-direction: column; gap: 15px; width: 75%;">
+    <div style="display: flex; align-items: center; gap: 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" />
+      <span style="font-weight: 500;">React JS</span>
+    </div>
+    <div style="display: flex; align-items: center; gap: 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="30" />
+      <span style="font-weight: 500;">C#</span>
+    </div>
+    <div style="display: flex; align-items: center; gap: 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" />
+      <span style="font-weight: 500;">MySQL</span>
+    </div>
+  </div>
+  <img src="https://i.pinimg.com/736x/f1/4c/4c/f14c4c88a836ec9c5f79d313e0d8cd7d.jpg" width="150" />
+</div>
+
+---
+
+## 🧰 Herramientas
+
+<div style="background: #ffffff; border-radius: 18px; padding: 25px; margin: 20px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.08); display: flex; align-items: center; justify-content: space-between; border: 1px solid #e1e4e8;">
+  <div style="display: flex; flex-direction: column; gap: 15px; width: 75%;">
+    <div style="display: flex; align-items: center; gap: 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" />
+      <span style="font-weight: 500;">Linux</span>
+    </div>
+    <div style="display: flex; align-items: center; gap: 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" />
+      <span style="font-weight: 500;">Git</span>
+    </div>
+    <div style="display: flex; align-items: center; gap: 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="30" />
+      <span style="font-weight: 500;">Bash</span>
+    </div>
+  </div>
+  <img src="https://i.pinimg.com/736x/ec/4b/78/ec4b78cefae7d3dfaf7d9e62751e4f25.jpg" width="150" />
+</div>
