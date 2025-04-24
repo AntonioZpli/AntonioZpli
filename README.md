@@ -18,10 +18,6 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" />
       <span style="font-weight: 500;">Python</span>
     </div>
-    <div style="display: flex; align-items: center; gap: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" />
-      <span style="font-weight: 500;">HTML5</span>
-    </div>
   </div>
   <img src="https://i.pinimg.com/736x/f2/a8/52/f2a8528a76b2e5370513fe25530917d9.jpg" width="150" />
 </div>
